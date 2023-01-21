@@ -1,3 +1,3 @@
 # TS + Vite + THREE.js astrology website demo 
 
-[![alt text](./torus.png)]
+[![alt text](torus.png)]
