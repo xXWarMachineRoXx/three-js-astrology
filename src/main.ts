@@ -10,7 +10,7 @@ const scene = new Scene();
 // const ambientlight= new AmbientLight(0xffffff);
 // scene.add(ambientlight);
 const pointLight= new PointLight(0xffffff);
-pointLight.position.set(5,5,5);
+pointLight.position.set(40,40,40);
 scene.add(pointLight);
 
 const pointLightHelper = new PointLightHelper(pointLight);
